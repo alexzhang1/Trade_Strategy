@@ -12,6 +12,12 @@ import sys
 import numpy as np
 import pandas as pd
 import datetime as dt
+from dateutil.parser import parse
+import matplotlib.pyplot as plt
+#import matplotlib.finance as mpf
+import mpl_finance as mpf
+from mpl_finance import candlestick_ohlc
+from matplotlib.pylab import date2num
 
 
 
@@ -169,9 +175,19 @@ def get_global_futures_his_quote(future_code):
 #f = read_real_external_future_data('CAD')
 #print('code,name,date,open,high,low,close,vol')
 #print(f)
+
 instrument = 'CU0'
 inner_quote = get_inner_futures_his_quote(instrument)
-csv_file_name = './quote_csv/InnerFuturesDailyKLine/' + instrument + '_' +  local_date
+csv_file_name = './quote_csv/InnerFuturesDailyKLine/' + instrument + '_' +  local_date + '.csv'
+inner_quote.to_csv(csv_file_name, encoding='utf-8')
+
+
+instrument = 'CAD'
+inner_quote = get_global_futures_his_quote(instrument)
+csv_file_name = './quote_csv/GlobalFuturesDailyKLine/' + instrument + '_' +  local_date + '.csv'
 inner_quote.to_csv(csv_file_name, encoding='utf-8')
 #get_global_futures_his_quote('CAD')
-        
+
+
+
+

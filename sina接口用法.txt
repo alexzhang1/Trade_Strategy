@@ -1,117 +1,117 @@
-Ò»¡£ĞÂÀËÊµÊ±Êı¾İ¶ÁÈ¡
+ä¸€ã€‚æ–°æµªå®æ—¶æ•°æ®è¯»å–
 
 
-    Àı×Ó
-    http://hq.sinajs.cn/list=M0 #¶¹ÆÉÁ¬Ğø M0
+    ä¾‹å­
+    http://hq.sinajs.cn/list=M0 #è±†ç²•è¿ç»­ M0
 
 
-    ·µ»ØÖµÈçÏÂ£º
-    var hq_str_M0="¶¹ÆÉÁ¬Ğø,145958,3170,3190,3145,3178,3153,3154,3154,3162,3169,
-                   1325,223,1371608,1611074,Á¬,¶¹ÆÉ,2013-06-28"...;
+    è¿”å›å€¼å¦‚ä¸‹ï¼š
+    var hq_str_M0="è±†ç²•è¿ç»­,145958,3170,3190,3145,3178,3153,3154,3154,3162,3169,
+                   1325,223,1371608,1611074,è¿,è±†ç²•,2013-06-28"...;
 
 
     ----------------------------------------------------------
-    1.Êı¾İ¶Á³öË³Ğò
+    1.æ•°æ®è¯»å‡ºé¡ºåº
 
 
-        0£º¶¹ÆÉÁ¬Ğø£¬Ãû×Ö
-        1£º145958£¬Êı¾İ¶ÁÈ¡Ê±¼ä
-        2£º3170£¬¿ªÅÌ¼Û
-        3£º3190£¬×î¸ß¼Û
-        4£º3145£¬×îµÍ¼Û
-        5£º3178£¬×òÈÕÊÕÅÌ¼Û £¨2018Äê6ÔÂ27ÈÕ£©
-        6£º3153£¬Âò¼Û£¬¼´¡°ÂòÒ»¡±±¨¼Û
-        7£º3154£¬Âô¼Û£¬¼´¡°ÂôÒ»¡±±¨¼Û
-        8£º3154£¬×îĞÂ¼Û£¬¼´ÊÕÅÌ¼Û
-        9£º3162£¬½áËã¼Û
-        10£º3169£¬×ò½áËã
-        11£º1325£¬Âò  Á¿
-        12£º223£¬Âô  Á¿
-        13£º1371608£¬³Ö²ÖÁ¿
-        14£º1611074£¬³É½»Á¿
-        15£ºÁ¬£¬´óÁ¬ÉÌÆ·½»Ò×Ëù¼ò³Æ
-        16£º¶¹ÆÉ£¬Æ·ÖÖÃû¼ò³Æ
-        17£º2018-06-28£¬ÈÕÆÚ
+        0ï¼šè±†ç²•è¿ç»­ï¼Œåå­—
+        1ï¼š145958ï¼Œæ•°æ®è¯»å–æ—¶é—´
+        2ï¼š3170ï¼Œå¼€ç›˜ä»·
+        3ï¼š3190ï¼Œæœ€é«˜ä»·
+        4ï¼š3145ï¼Œæœ€ä½ä»·
+        5ï¼š3178ï¼Œæ˜¨æ—¥æ”¶ç›˜ä»· ï¼ˆ2018å¹´6æœˆ27æ—¥ï¼‰
+        6ï¼š3153ï¼Œä¹°ä»·ï¼Œå³â€œä¹°ä¸€â€æŠ¥ä»·
+        7ï¼š3154ï¼Œå–ä»·ï¼Œå³â€œå–ä¸€â€æŠ¥ä»·
+        8ï¼š3154ï¼Œæœ€æ–°ä»·ï¼Œå³æ”¶ç›˜ä»·
+        9ï¼š3162ï¼Œç»“ç®—ä»·
+        10ï¼š3169ï¼Œæ˜¨ç»“ç®—
+        11ï¼š1325ï¼Œä¹°  é‡
+        12ï¼š223ï¼Œå–  é‡
+        13ï¼š1371608ï¼ŒæŒä»“é‡
+        14ï¼š1611074ï¼Œæˆäº¤é‡
+        15ï¼šè¿ï¼Œå¤§è¿å•†å“äº¤æ˜“æ‰€ç®€ç§°
+        16ï¼šè±†ç²•ï¼Œå“ç§åç®€ç§°
+        17ï¼š2018-06-28ï¼Œæ—¥æœŸ
     ----------------------------------------------
 
 
-    2.ĞÂÀËÆÚ»õÊı¾İ¸÷Æ·ÖÖ´úÂë£¨ÉÌÆ·Á¬Ğø£©ÈçÏÂ
+    2.æ–°æµªæœŸè´§æ•°æ®å„å“ç§ä»£ç ï¼ˆå•†å“è¿ç»­ï¼‰å¦‚ä¸‹
 
 
-         RB0 ÂİÎÆ¸Ö
-         AG0 °×Òø
-         AU0 »Æ½ğ
-         CU0 »¦Í­
-         AL0 »¦ÂÁ
-         ZN0 »¦Ğ¿
-         PB0 »¦Ç¦
-         RU0 Ïğ½º
-         FU0 È¼ÓÍ
-         WR0 Ïß²Ä
-         A0 ´ó¶¹
-         M0 ¶¹ÆÉ
-         Y0 ¶¹ÓÍ
-         J0 ½¹Ì¿
-         C0 ÓñÃ×
-         L0 ÒÒÏ©
-         P0 ×ØÓÍ
+         RB0 èºçº¹é’¢
+         AG0 ç™½é“¶
+         AU0 é»„é‡‘
+         CU0 æ²ªé“œ
+         AL0 æ²ªé“
+         ZN0 æ²ªé”Œ
+         PB0 æ²ªé“…
+         RU0 æ©¡èƒ¶
+         FU0 ç‡ƒæ²¹
+         WR0 çº¿æ
+         A0 å¤§è±†
+         M0 è±†ç²•
+         Y0 è±†æ²¹
+         J0 ç„¦ç‚­
+         C0 ç‰ç±³
+         L0 ä¹™çƒ¯
+         P0 æ£•æ²¹
          V0 PVC
-         RS0 ²Ë×Ñ
-         RM0 ²ËÆÉ
-         FG0 ²£Á§
-         CF0 ÃŞ»¨
-         WS0 Ç¿Âó
-         ER0 ôÌµ¾
-         ME0 ¼×´¼
-         RO0 ²ËÓÍ
-         TA0 ¼×Ëá
-         CFF_RE_IF1307  ¹ÉÖ¸ÆÚ»õ
+         RS0 èœç±½
+         RM0 èœç²•
+         FG0 ç»ç’ƒ
+         CF0 æ£‰èŠ±
+         WS0 å¼ºéº¦
+         ER0 ç±¼ç¨»
+         ME0 ç”²é†‡
+         RO0 èœæ²¹
+         TA0 ç”²é…¸
+         CFF_RE_IF1307  è‚¡æŒ‡æœŸè´§
 
 
-    3.Ê¹ÓÃ·½·¨
-      3.1.Æ·ÖÖÃû + 0 £¨Êı×Ö0£©£¬´ú±íÆ·ÖÖÁ¬Ğø£¬Èç¹ûÊÇÆäËûÔÂ·İ£¬ÇëÊ¹ÓÃÆ·ÖÖÃû + YYYMM
-          ÀıÈç
-              ¶¹ÆÉ 2013Äê09ÔÂ£¬M1309
+    3.ä½¿ç”¨æ–¹æ³•
+      3.1.å“ç§å + 0 ï¼ˆæ•°å­—0ï¼‰ï¼Œä»£è¡¨å“ç§è¿ç»­ï¼Œå¦‚æœæ˜¯å…¶ä»–æœˆä»½ï¼Œè¯·ä½¿ç”¨å“ç§å + YYYMM
+          ä¾‹å¦‚
+              è±†ç²• 2013å¹´09æœˆï¼ŒM1309
               http://hq.sinajs.cn/list=M1309
 
 
 
 
-      3.2.Ò»´Î¿ÉÒÔÇëÇó¶à¸öÆ·ÖÖ£¬ÀıÈç
+      3.2.ä¸€æ¬¡å¯ä»¥è¯·æ±‚å¤šä¸ªå“ç§ï¼Œä¾‹å¦‚
 
 
               http://hq.sinajs.cn/list=CFF_RE_IF1307,TA0,M0,CFF_RE_IF1306,RB1309,M1309,SR1309
 
 
 ********************************************************************************************
-¶ş¡£ÀúÊ·Êı¾İ¶ÁÈ¡
+äºŒã€‚å†å²æ•°æ®è¯»å–
 
 
-    ÉÌÆ·ÆÚ»õ
+    å•†å“æœŸè´§
     http://stock2.finance.sina.com.cn/futures/api/json.php/
     IndexService.getInnerFuturesMiniKLineXm?symbol=CODE
-    Àı×Ó£º
+    ä¾‹å­ï¼š
         http://stock2.finance.sina.com.cn/futures/api/json.php/
         IndexService.getInnerFuturesMiniKLine5m?symbol=M0
-    5·ÖÖÓ
+    5åˆ†é’Ÿ
         http://stock2.finance.sina.com.cn/futures/api/json.php/
         IndexService.getInnerFuturesMiniKLine5m?symbol=M0
-    15·ÖÖÓ
+    15åˆ†é’Ÿ
         http://stock2.finance.sina.com.cn/futures/api/json.php/
         IndexService.getInnerFuturesMiniKLine15m?symbol=M0
-    30·ÖÖÓ
+    30åˆ†é’Ÿ
         http://stock2.finance.sina.com.cn/futures/api/json.php/
         IndexService.getInnerFuturesMiniKLine30m?symbol=M0
-    60·ÖÖÓ
+    60åˆ†é’Ÿ
         http://stock2.finance.sina.com.cn/futures/api/json.php/
         IndexService.getInnerFuturesMiniKLine60m?symbol=M0
-    ÈÕKÏß
+    æ—¥Kçº¿
         http://stock2.finance.sina.com.cn/futures/api/json.php/
         IndexService.getInnerFuturesDailyKLine?symbol=M0
 
 
-    ¹ÉÖ¸ÆÚ»õ
-    5·ÖÖÓ
+    è‚¡æŒ‡æœŸè´§
+    5åˆ†é’Ÿ
     http://stock2.finance.sina.com.cn/futures/api/json.php/
     CffexFuturesService.getCffexFuturesMiniKLine5m?symbol=IF1306
 
@@ -119,17 +119,17 @@
     15
     http://stock2.finance.sina.com.cn/futures/api/json.php/
     CffexFuturesService.getCffexFuturesMiniKLine15m?symbol=IF1306
-    30·ÖÖÓ
+    30åˆ†é’Ÿ
     http://stock2.finance.sina.com.cn/futures/api/json.php/
     CffexFuturesService.getCffexFuturesMiniKLine30m?symbol=IF1306
 
 
-    60·ÖÖÓ
+    60åˆ†é’Ÿ
     http://stock2.finance.sina.com.cn/futures/api/json.php/
     CffexFuturesService.getCffexFuturesMiniKLine60m?symbol=IF1306
 
 
-    ÈÕÏß
+    æ—¥çº¿
     http://stock2.finance.sina.com.cn/futures/api/json.php/
     CffexFuturesService.getCffexFuturesDailyKLine?symbol=IF1306
   ********************************************************************************************
